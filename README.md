@@ -1,5 +1,5 @@
 
-![DevOps Banner](https://raw.githubusercontent.com/aditya12-g/aditya12-g/main/assets/banner.png)
+
 
 ### Hi there! 👋 I'm Aditya, a DevOps Enthusiast 🚀
 
