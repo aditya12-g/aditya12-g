@@ -3,7 +3,7 @@
 
 ### Hi there! 👋 I'm Aditya, a DevOps Enthusiast 🚀
 
-I’m a **Freelance DevOps Engineer** passionate about **cloud automation, CI/CD, Kubernetes, and infrastructure as code (IaC).** I love building scalable and secure cloud solutions while contributing to open-source DevOps projects. 
+I’m a ** DevOps Engineer** passionate about **cloud automation, CI/CD, Kubernetes, and infrastructure as code (IaC).** I love building scalable and secure cloud solutions while contributing to open-source DevOps projects. 
 
 ### 🚀 **What I Do:**
 - ☁ ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) **Cloud & Infrastructure:** AWS (EC2, S3, IAM, VPC, Lambda)
