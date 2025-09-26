@@ -1,68 +1,65 @@
-![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnV2bHgzYmpqaDdsZ3NndThjdXd4aWJodXRzb2R1Y2txcWZpa3F4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif)
+# Hi there 👋, I'm Aditya Gangthade  
 
-<h1 align="center">Hi 👋, I'm Aditya from India 🇮🇳</h1>
-<h3 align="center">DevOps & Backend Engineer | Cloud Automation | Java Microservices</h3>
+🚀 **DevOps Engineer | Cloud & Automation Enthusiast | Java Backend Developer**  
 
-<img align="right" alt="DevOps" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFvbm16bDYybTE3bWR1dXh0NzY1NGs2bGNpZWV2cXhzd2JrYm81eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya12-g&label=Profile%20views&color=0e75b6&style=flat" alt="aditya12-g" /> </p>
-
-- 🔭 I’m currently working on **Cloud Automation Projects (Terraform, Ansible, Jenkins, Kubernetes)**  
-- 🌱 I’m learning **Spring Boot Microservices & Advanced Kubernetes**  
-- 📝 I plan to share knowledge on **Medium/Hashnode** soon  
-- 💬 Ask me about **DevOps, AWS, Kubernetes, Terraform, Jenkins, Ansible, Java, Spring Boot, Docker, CI/CD**  
-- 📫 Reach me at **adityagangthade.devops@gmail.com**  
-- ⚡ Fun fact: **I mix Java ☕ with DevOps 🚀 daily!**  
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/aditya-gangthade)  
+💡 Passionate about building scalable systems, automating everything, and delivering production-grade solutions using **AWS, Kubernetes, Terraform, Jenkins, Docker, and Java (Spring Boot, Microservices).**  
 
 ---
 
-### 🚀 Featured Projects  
-#### ⚡ [EC2 Disaster Recovery Automation](https://github.com/aditya12-g/ec2-disaster-recovery.git)  
-Automated **EC2 backup & disaster recovery** using Terraform & Ansible.  
-Included **IAM, S3, and Lambda** for automated failover.  
-
-#### ⚙️ [CI/CD Pipeline with Jenkins, Docker & Kubernetes](https://github.com/aditya12-g/spring-boot-app-deploy-using-helm)  
-End-to-end pipeline using Jenkins & Helm for Kubernetes deployments.  
-
-#### 📦 [AWS Infrastructure Automation](https://github.com/aditya12-g/EKS-infrastructure-using-terraform)  
-Provisioned secure AWS infra (EC2, RDS, S3) for multiple environments with **Terraform & Ansible**.  
-
-#### ☕ Spring Boot Microservices *(In Progress)*  
-REST APIs with **Java + Spring Boot**, Dockerized and deployed on Kubernetes.  
+## 🔥 About Me  
+- 🎯 4+ years of experience in **DevOps, Cloud, and CI/CD pipelines**  
+- ☁️ Skilled in **AWS Cloud** architecture & automation with **Terraform & Ansible**  
+- 🛠️ Experienced with **Docker, Kubernetes (EKS), Helm** for container orchestration  
+- 💻 Backend development with **Java | Spring Boot | Microservices**  
+- 🚀 Love automating deployments & improving developer productivity  
+- ✍️ Writing blogs on DevOps & Cloud practices  
 
 ---
 
-### 🏆 Certifications & Goals  
-- 📌 AWS Certified Solutions Architect (Planned)  
-- 📌 Certified Kubernetes Administrator - CKA (Planned)  
-- 📌 Java + Spring Boot Microservices (Learning)  
-- 📌 Contributing to **Open Source DevOps & Java Projects**  
+## ⚡ Tech Stack with Vibes  
+
+<table>
+  <tr>
+    <td><b>Core Java</b></td>
+    <td><img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me/java.gif" width="100"></td>
+    <td>Strong in OOPs, Collections, Multithreading, Exception Handling</td>
+  </tr>
+  <tr>
+    <td><b>Spring Boot</b></td>
+    <td><img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="120"></td>
+    <td>Building REST APIs, Microservices, and enterprise apps</td>
+  </tr>
+  <tr>
+    <td><b>Microservices</b></td>
+    <td><img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="140"></td>
+    <td>Distributed systems, service discovery, API gateway, resilience</td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120"></td>
+    <td>CI/CD | Jenkins | Docker | Kubernetes | Terraform | AWS</td>
+  </tr>
+</table>  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/aditya12-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aditya-gangthade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:adityagangthade.devops@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
+## 📂 Featured Projects  
+- 🔹 [AWS Infrastructure Automation with Terraform & Ansible](https://github.com/aditya12-g/aws-infra-automation)  
+- 🔹 [CI/CD Pipeline with Jenkins, Docker & Kubernetes](https://github.com/aditya12-g/jenkins-k8s-cicd)  
+- 🔹 [E-commerce Microservices on AWS EKS](https://github.com/aditya12-g/ecommerce-microservices)  
 
 ---
 
-<h3 align="left">🛠 Languages & Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/></a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-</p>
+## 🌐 Connect With Me  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya12-g)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-handle)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+
+---
+
+## ⚡ Fun Fact  
+🌍 I believe **automation is the key to creativity** — the less time spent on repetitive tasks, the more time to innovate 🚀  
+
 
 
