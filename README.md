@@ -1,15 +1,16 @@
+### Hi there! 👋 I'm Aditya, a DevOps & Java Enthusiast 🚀
 
+I’m a **DevOps & Backend Engineer** passionate about **cloud automation, CI/CD, Kubernetes, microservices, and infrastructure as code (IaC).**  
+I love building **scalable, secure cloud-native applications** and working with **Java Spring Boot microservices** alongside DevOps automation.
 
-
-### Hi there! 👋 I'm Aditya, a DevOps Enthusiast 🚀
-
-I’m a ** DevOps Engineer** passionate about **cloud automation, CI/CD, Kubernetes, and infrastructure as code (IaC).** I love building scalable and secure cloud solutions while contributing to open-source DevOps projects. 
+---
 
 ### 🚀 **What I Do:**
 - ☁ ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) **Cloud & Infrastructure:** AWS (EC2, S3, IAM, VPC, Lambda)
 - 🔧 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) **Automation & IaC:** Terraform, Ansible, CloudFormation
 - 🐳 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) **Containerization & Orchestration:** Docker, Kubernetes, Helm
 - 🔄 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI
+- ☕ ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) **Backend Development:** Core Java, Spring Boot, REST APIs, Microservices
 - 🛡 ![Security](https://img.shields.io/badge/Security-5C2D91?style=flat&logo=security&logoColor=white) **Security & Compliance:** AWS Security Best Practices, CIS Benchmarking
 - 📝 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Scripting:** Bash, Python, YAML
 
@@ -31,20 +32,16 @@ I’m a ** DevOps Engineer** passionate about **cloud automation, CI/CD, Kuberne
 🔹 Provisioned EC2, RDS, and S3 with security best practices.  
 📌 **[Project Repository](https://github.com/aditya12-g/aws-infra-automation.git)**
 
+#### ☕ **Spring Boot Microservices Project**  
+🔹 Developed RESTful microservices using **Spring Boot** and **Core Java**.  
+🔹 Integrated APIs with Docker and deployed on Kubernetes for scalability.  
+📌 *(Add your repo link once ready!)*
+
 ---
 
 ### 🏆 **Certifications & Learning Goals**
 - 📌 AWS Certified Solutions Architect (Planned/Completed ✅)
 - 📌 Certified Kubernetes Administrator - CKA (Planned/Completed ✅)
-- 📌 Contributing to Open Source DevOps Projects 🏗️
+- 📌 Java + Spring Boot Microservices (Learning & Building Projects 🚀)
+- 📌 Contributing to Open Source DevOps & Java Projects 🏗️
 
----
-
-### 📬 **Let's Connect!**  
-📂 **GitHub:** [github.com/aditya12-g](https://github.com/aditya12-g)  
-✍ **Blog:** [DevOps Insights](#) (Coming Soon!)  
-🚀 Always open to networking, collaboration, and sharing knowledge!
-
----
-
-⭐ **If you find my work helpful, give it a star!** ⭐
