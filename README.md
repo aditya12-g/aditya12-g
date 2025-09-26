@@ -30,7 +30,7 @@ I love building **scalable, secure cloud-native applications** and working with 
 #### 📦 **AWS Infrastructure Automation (Terraform & Ansible)**  
 🔹 Automated AWS infrastructure setup for multi-environment deployments.  
 🔹 Provisioned EC2, RDS, and S3 with security best practices.  
-📌 **[Project Repository](https://github.com/aditya12-g/aws-infra-automation.git)**
+📌 **[Project Repository](https://github.com/aditya12-g/EKS-infrastructure-using-terraform)**
 
 #### ☕ **Spring Boot Microservices Project**  
 🔹 Developed RESTful microservices using **Spring Boot** and **Core Java**.  
