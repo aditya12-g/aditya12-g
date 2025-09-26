@@ -3,9 +3,9 @@
 I’m a **DevOps & Backend Engineer** passionate about **cloud automation, CI/CD, Kubernetes, microservices, and infrastructure as code (IaC).**  
 I love building **scalable, secure cloud-native applications** and working with **Java Spring Boot microservices** alongside DevOps automation.
 
-<!-- Coding Gif -->
-<p align="right">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="350"/>
+<!-- Coding Cartoon Gif -->
+<p align="right" style="margin:0;">
+  <img src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" alt="Coding Java Cartoon" width="350"/>
 </p>
 
 ---
@@ -17,7 +17,7 @@ I love building **scalable, secure cloud-native applications** and working with 
 - 🔄 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI
 - ☕ ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) **Backend Development:** Core Java, Spring Boot, REST APIs, Microservices
 - 🛡 ![Security](https://img.shields.io/badge/Security-5C2D91?style=flat&logo=security&logoColor=white) **Security & Compliance:** AWS Security Best Practices, CIS Benchmarking
-- 📝 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Scripting:** Bash, Python, YAML
+- 📝 ![Scripting](https://img.shields.io/badge/Scripting-Bash%20%26%20YAML-3776AB?style=flat&logo=gnu-bash&logoColor=white) **Scripting:** Bash, YAML
 
 ---
 
@@ -49,5 +49,6 @@ I love building **scalable, secure cloud-native applications** and working with 
 - 📌 Certified Kubernetes Administrator - CKA (Planned ✅)
 - 📌 Java + Spring Boot Microservices (Learning & Building Projects 🚀)
 - 📌 Contributing to Open Source DevOps & Java Projects 🏗️
+
  
 
