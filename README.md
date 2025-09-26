@@ -1,19 +1,18 @@
-![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnV2bHgzYmpqaDdsZ3NndThjdXd4aWJodXRzb2R1Y2txcWZpa3F4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif)
-
+![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
 <h1 align="center">Hi 👋, I'm Aditya from India 🇮🇳</h1>
-<h3 align="center">DevOps & Backend Engineer | Cloud Automation | Java Microservices</h3>
 
-<img align="right" alt="DevOps" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFvbm16bDYybTE3bWR1dXh0NzY1NGs2bGNpZWV2cXhzd2JrYm81eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif">
+<h3 align="center">DevOps & Backend Engineer | Cloud Automation | Java Microservices</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya12-g&label=Profile%20views&color=0e75b6&style=flat" alt="aditya12-g" /> </p>
 
 - 🔭 I’m currently working on **Cloud Automation Projects (Terraform, Ansible, Jenkins, Kubernetes)**  
-- 🌱 I’m learning **Spring Boot Microservices & Advanced Kubernetes**  
-- 📝 I plan to share knowledge on **Medium/Hashnode** soon  
+- 🌱 I’m currently learning **Spring Boot Microservices & Kubernetes (Advanced)**  
+- 📝 I write articles on [Medium](https://amanpathakdevops.medium.com) *(planning your own blog? we can update this)*  
 - 💬 Ask me about **DevOps, AWS, Kubernetes, Terraform, Jenkins, Ansible, Java, Spring Boot, Docker, CI/CD**  
-- 📫 Reach me at **adityagangthade.devops@gmail.com**  
-- ⚡ Fun fact: **I mix Java ☕ with DevOps 🚀 daily!**  
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/aditya-gangthade)  
+- 📫 How to reach me **adityagangthade.devops@gmail.com**  
+- ⚡ Fun fact **I mix Java ☕ with DevOps 🚀 daily!**  
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/aditya-gangthade) *(replace with your link)*  
 
 ---
 
@@ -28,7 +27,7 @@ End-to-end pipeline using Jenkins & Helm for Kubernetes deployments.
 #### 📦 [AWS Infrastructure Automation](https://github.com/aditya12-g/EKS-infrastructure-using-terraform)  
 Provisioned secure AWS infra (EC2, RDS, S3) for multiple environments with **Terraform & Ansible**.  
 
-#### ☕ Spring Boot Microservices *(In Progress)*  
+#### ☕ Spring Boot Microservices (In Progress)  
 REST APIs with **Java + Spring Boot**, Dockerized and deployed on Kubernetes.  
 
 ---
@@ -64,6 +63,7 @@ REST APIs with **Java + Spring Boot**, Dockerized and deployed on Kubernetes.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 </p>
+
  
 
 
