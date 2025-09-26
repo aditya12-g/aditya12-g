@@ -1,5 +1,6 @@
-### Hi there! 👋 I'm Aditya, a DevOps & Java Enthusiast 🚀
 ![](https://komarev.com/ghpvc/?username=aditya12-g)
+### Hi there! 👋 I'm Aditya, a DevOps & Java Enthusiast 🚀
+
 I’m a **DevOps & Backend Engineer** passionate about **cloud automation, CI/CD, Kubernetes, microservices, and infrastructure as code (IaC).**  
 I love building **scalable, secure cloud-native applications** and working with **Java Spring Boot microservices** alongside DevOps automation.
 
