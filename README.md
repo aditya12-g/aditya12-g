@@ -3,10 +3,6 @@
 I’m a **DevOps & Backend Engineer** passionate about **cloud automation, CI/CD, Kubernetes, microservices, and infrastructure as code (IaC).**  
 I love building **scalable, secure cloud-native applications** and working with **Java Spring Boot microservices** alongside DevOps automation.
 
-<!-- Coding Cartoon Gif -->
-<p align="right" style="margin:0;">
-  <img src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" alt="Coding Java Cartoon" width="350"/>
-</p>
 
 ---
 
