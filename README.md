@@ -35,13 +35,13 @@ I love building **scalable, secure cloud-native applications** and working with 
 #### ☕ **Spring Boot Microservices Project**  
 🔹 Developed RESTful microservices using **Spring Boot** and **Core Java**.  
 🔹 Integrated APIs with Docker and deployed on Kubernetes for scalability.  
-📌 *(Add your repo link once ready!)*
+📌 *(In progress)*
 
 ---
 
 ### 🏆 **Certifications & Learning Goals**
-- 📌 AWS Certified Solutions Architect (Planned/Completed ✅)
-- 📌 Certified Kubernetes Administrator - CKA (Planned/Completed ✅)
+- 📌 AWS Certified Solutions Architect (Planned ✅)
+- 📌 Certified Kubernetes Administrator - CKA (Planned ✅)
 - 📌 Java + Spring Boot Microservices (Learning & Building Projects 🚀)
 - 📌 Contributing to Open Source DevOps & Java Projects 🏗️
 
