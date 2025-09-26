@@ -25,7 +25,7 @@ I love building **scalable, secure cloud-native applications** and working with 
 #### ⚙️ **CI/CD Pipeline with Jenkins, Docker & Kubernetes**  
 🔹 Built an automated CI/CD pipeline for containerized applications.  
 🔹 Used Helm for Kubernetes deployments and Jenkins for pipeline automation.  
-📌 **[Project Repository](https://github.com/aditya12-g/ci-cd-pipeline.git)**
+📌 **[Project Repository](https://github.com/aditya12-g/spring-boot-app-deploy-using-helm)**
 
 #### 📦 **AWS Infrastructure Automation (Terraform & Ansible)**  
 🔹 Automated AWS infrastructure setup for multi-environment deployments.  
