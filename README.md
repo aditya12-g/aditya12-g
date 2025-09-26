@@ -13,11 +13,11 @@ I love building **scalable, secure cloud-native applications** and working with 
 ### 🚀 **What I Do:**
 - ☁ ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) **Cloud & Infrastructure:** AWS (EC2, S3, IAM, VPC, Lambda)
 - 🔧 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) **Automation & IaC:** Terraform, Ansible, CloudFormation
-- 🐳 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) **Containerization & Orchestration:** Docker, Kubernetes, Helm
 - 🔄 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI
+- 🐳 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) **Containerization:** Docker
 - ☕ ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) **Backend Development:** Core Java, Spring Boot, REST APIs, Microservices
-- 🛡 ![Security](https://img.shields.io/badge/Security-5C2D91?style=flat&logo=security&logoColor=white) **Security & Compliance:** AWS Security Best Practices, CIS Benchmarking
-- 📝 ![Scripting](https://img.shields.io/badge/Scripting-Bash%20%26%20YAML-3776AB?style=flat&logo=gnu-bash&logoColor=white) **Scripting:** Bash, YAML
+- 📦 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) **Orchestration:** Kubernetes, Helm
+- 📝 **Scripting & Config:** Bash, YAML
 
 ---
 
@@ -47,8 +47,9 @@ I love building **scalable, secure cloud-native applications** and working with 
 ### 🏆 **Certifications & Learning Goals**
 - 📌 AWS Certified Solutions Architect (Planned ✅)
 - 📌 Certified Kubernetes Administrator - CKA (Planned ✅)
-- 📌 Java + Spring Boot Microservices (Learning & Building Projects 🚀)
+- 📌 Java + Spring Boot Microservices (Advanced Projects 🚀)
 - 📌 Contributing to Open Source DevOps & Java Projects 🏗️
+
 
  
 
