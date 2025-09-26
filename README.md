@@ -1,77 +1,53 @@
-<!-- Master Head -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE1cG5oNzRvYzF3bDh5ZjdwZ3c0eHk3NzdmYmYzN25jYXN0Z2FieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead" width="100%" height="250">
-</p>
+### Hi there! 👋 I'm Aditya, a DevOps & Java Enthusiast 🚀
 
-<h1 align="center">Hi 👋, I'm Aditya from India 🇮🇳</h1>  
-<h3 align="center">DevOps Engineer | Cloud Automation | Java Spring Boot Microservices</h3>  
+I’m a **DevOps & Backend Engineer** passionate about **cloud automation, CI/CD, Kubernetes, microservices, and infrastructure as code (IaC).**  
+I love building **scalable, secure cloud-native applications** and working with **Java Spring Boot microservices** alongside DevOps automation.
 
 <!-- Coding Gif -->
 <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3F4NjF1ZGNudTF0b3VtdjYxZmlwY2p1M3lsZm5tdXkzYTI3d3hnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="400"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="350"/>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=aditya12-g&label=Profile%20views&color=0e75b6&style=flat" alt="aditya12-g" /> 
-</p>  
+---
+
+### 🚀 **What I Do:**
+- ☁ ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) **Cloud & Infrastructure:** AWS (EC2, S3, IAM, VPC, Lambda)
+- 🔧 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) **Automation & IaC:** Terraform, Ansible, CloudFormation
+- 🐳 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) **Containerization & Orchestration:** Docker, Kubernetes, Helm
+- 🔄 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI
+- ☕ ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) **Backend Development:** Core Java, Spring Boot, REST APIs, Microservices
+- 🛡 ![Security](https://img.shields.io/badge/Security-5C2D91?style=flat&logo=security&logoColor=white) **Security & Compliance:** AWS Security Best Practices, CIS Benchmarking
+- 📝 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Scripting:** Bash, Python, YAML
 
 ---
 
-### 👨‍💻 About Me  
-- 💼 I have **4 years of experience** as a **DevOps & Backend Engineer**  
-- ☁ Strong expertise in **AWS Cloud, Infrastructure Automation, CI/CD, Kubernetes**  
-- 🛠 Skilled in **Java, Spring Boot, and Microservices** for backend development  
-- 🚀 Passionate about building **scalable & secure cloud-native applications**  
-- 📝 Sharing knowledge on DevOps & Cloud (soon on **Medium/Blog**)  
-- 📫 Reach me at **adityagangthade.devops@gmail.com**  
-- ⚡ Fun fact: **I mix Java ☕ with DevOps 🚀 daily!**  
+### 📌 **Featured Projects**
+#### 🚀 **EC2 Disaster Recovery Automation**  
+🔹 Automated backup and disaster recovery for AWS EC2 instances using Terraform & Ansible.  
+🔹 Implemented IAM, S3 storage, and Lambda functions for automated failover.  
+📌 **[Project Repository](https://github.com/aditya12-g/ec2-disaster-recovery.git)**
+
+#### ⚙️ **CI/CD Pipeline with Jenkins, Docker & Kubernetes**  
+🔹 Built an automated CI/CD pipeline for containerized applications.  
+🔹 Used Helm for Kubernetes deployments and Jenkins for pipeline automation.  
+📌 **[Project Repository](https://github.com/aditya12-g/spring-boot-app-deploy-using-helm)**
+
+#### 📦 **AWS Infrastructure Automation (Terraform & Ansible)**  
+🔹 Automated AWS infrastructure setup for multi-environment deployments.  
+🔹 Provisioned EC2, RDS, and S3 with security best practices.  
+📌 **[Project Repository](https://github.com/aditya12-g/EKS-infrastructure-using-terraform)**
+
+#### ☕ **Spring Boot Microservices Project**  
+🔹 Developed RESTful microservices using **Spring Boot** and **Core Java**.  
+🔹 Integrated APIs with Docker and deployed on Kubernetes for scalability.  
+📌 *(In progress)*
 
 ---
 
-### 🚀 Featured Projects  
-#### ⚡ [EC2 Disaster Recovery Automation](https://github.com/aditya12-g/ec2-disaster-recovery.git)  
-Automated **EC2 backup & disaster recovery** using Terraform & Ansible.  
-Included **IAM, S3, and Lambda** for automated failover.  
-
-#### ⚙️ [CI/CD Pipeline with Jenkins, Docker & Kubernetes](https://github.com/aditya12-g/spring-boot-app-deploy-using-helm)  
-End-to-end pipeline using Jenkins & Helm for Kubernetes deployments.  
-
-#### 📦 [AWS Infrastructure Automation](https://github.com/aditya12-g/EKS-infrastructure-using-terraform)  
-Provisioned secure AWS infra (EC2, RDS, S3) for multiple environments with **Terraform & Ansible**.  
-
-#### ☕ Spring Boot Microservices (In Progress)  
-REST APIs with **Java + Spring Boot**, Dockerized and deployed on Kubernetes.  
-
----
-
-### 🏆 Certifications & Goals  
-- 📌 AWS Certified Solutions Architect (Planned)  
-- 📌 Certified Kubernetes Administrator - CKA (Planned)  
-- 📌 Building advanced **Java + Spring Boot Microservices**  
-- 📌 Contributing to **Open Source DevOps & Java Projects**  
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>  
-<p align="left">  
-<a href="https://github.com/aditya12-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>  
-<a href="https://www.linkedin.com/in/aditya-gangthade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>  
-<a href="mailto:adityagangthade.devops@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>  
-</p>  
-
----
-
-<h3 align="left">🛠 Languages & Tools:</h3>  
-<p align="left">  
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>  
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>  
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/></a>  
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>  
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>  
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>  
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>  
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/></a>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>  
-</p>  
+### 🏆 **Certifications & Learning Goals**
+- 📌 AWS Certified Solutions Architect (Planned ✅)
+- 📌 Certified Kubernetes Administrator - CKA (Planned ✅)
+- 📌 Java + Spring Boot Microservices (Learning & Building Projects 🚀)
+- 📌 Contributing to Open Source DevOps & Java Projects 🏗️
+ 
 
